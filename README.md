@@ -1,4 +1,4 @@
-# Bihar-Game
+# Bihar Game
 <img src="bihar-game-appicon.png" width="120" alt="Home Screen"> 
 
 ## **Fun and fast-paced color-matching ball game awaits you in Bihar Game!**
@@ -29,7 +29,7 @@ Download [Bihar Game](https://bihar-game.en.uptodown.com/android) today and see 
 
 ## Download the App
 
-You can download the PlayGrand App from the Uptodown app store using the following link:
+You can download the Bihar Game from the Uptodown app store using the following link:
 
 <a href='https://bihar-game.en.uptodown.com/android' title='Download Bihar Game' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-aao-big.png' alt='Download Bihar Game'>
